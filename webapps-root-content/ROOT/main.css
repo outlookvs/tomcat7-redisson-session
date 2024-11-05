@@ -1,0 +1,21 @@
+h3, h4 {
+	font-family: tahoma, arial
+}
+h3{
+	color: brown;
+	padding: 2px;
+}
+body{
+	margin: 0px;
+	padding: 2px;
+}
+h4 {
+	color: teal;
+	padding: 2px;
+}
+b {
+	font-family: monospace;
+	background-color: orange;
+	border-radius: 3px;
+	padding: 2px;
+}

@@ -1,5 +1,7 @@
 # Tomcat-Redisson Integration for HTTP Session management
 
+##### PS: Added content of the [webapps/ROOT.war](webapps/ROOT.war) with Java source code at [webapps-root-content/Root](webapps-root-content/ROOT) folder for reference.
+
 Use this code for building your own "tomcat-7" container with redisson configured as default session-store.
 
 You may use `standalone` redis instances as `single` mode or `multiple instances` as `replicated` mode.
